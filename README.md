@@ -1,7 +1,7 @@
-<h1 align="center"> NLW Copa Explorer - Tabela </h1>
+<h1 align="center"> NLW#10 Copa Explorer - Tabela </h1>
 
 <p align="center">
-Criamos uma tabela de jogos favoritos na NLW Copa.
+Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
