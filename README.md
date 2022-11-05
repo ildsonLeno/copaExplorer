@@ -1,4 +1,4 @@
-<h1 align="center"> NLW Copa - Tabela </h1>
+<h1 align="center"> NLW Copa Explorer - Tabela </h1>
 
 <p align="center">
 Criamos uma tabela de jogos favoritos na NLW Copa.
