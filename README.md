@@ -30,6 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Criamos uma tabela de jogos favoritos na NLW Copa com a possibilidade de troca de cores e adição de jogos com HTML, CSS, Javascript, usando um layout do Figma como base.
 
+Podem está conferindo ele pronto clicando [AQUI!](ildsonleno.github.io/copaExplorer/).
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/2Tr040nVDh8sNuGlwrXDmu/Calend%C3%A1rio-de-Jogos?node-id=105%3A37). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
